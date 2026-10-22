@@ -1,0 +1,20 @@
+! Molecule #1 gap(s) restraint(s)
+assign (resid 19 and name NE and segid A) (resid 41 and name CE1 and segid B) 4.2 1.0 1.0
+assign (resid 19 and name NH2 and segid A) (resid 41 and name CE2 and segid B) 3.8 1.0 1.0
+assign (resid 19 and name NH1 and segid A) (resid 41 and name CD2 and segid B) 3.3 1.0 1.0
+assign (resid 19 and name NE and segid A) (resid 98 and name NE2 and segid B) 5.5 1.0 1.0
+assign (resid 19 and name N and segid A) (resid 103 and name OH and segid B) 2.8 1.0 1.0
+assign (resid 19 and name O and segid A) (resid 103 and name OH and segid B) 3.3 1.0 1.0
+assign (resid 69 and name OE2 and segid A) (resid 42 and name N and segid B) 3.3 1.0 1.0
+assign (resid 69 and name OE1 and segid A) (resid 41 and name N and segid B) 2.7 1.0 1.0
+assign (resid 84 and name NE2 and segid A) (resid 41 and name N and segid B) 4.0 1.0 1.0
+assign (resid 84 and name ND1 and segid A) (resid 39 and name O and segid B) 3.7 1.0 1.0
+assign (resid 12 and name NZ and segid A) (resid 103 and name OH and segid B) 2.7 1.0 1.0
+assign (resid 16 and name NZ and segid A) (resid 104 and name OD1 and segid B) 2.9 1.0 1.0
+assign (resid 16 and name NZ and segid A) (resid 104 and name OD2 and segid B) 3.9 1.0 1.0
+assign (resid 16 and name NZ and segid A) (resid 105 and name OE2 and segid B) 5.4 1.0 1.0
+assign (resid 17 and name OG1 and segid A) (resid 105 and name OE1 and segid B) 2.8 1.0 1.0
+assign (resid 17 and name N and segid A) (resid 105 and name OE2 and segid B) 3.4 1.0 1.0
+assign (resid 15 and name OG and segid A) (resid 94 and name NH2 and segid B) 4.8 1.0 1.0
+
+
