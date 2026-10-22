@@ -27,6 +27,6 @@ The trajectory files are labeled from MD_1 to MD_100 according to their correspo
 
 ## Data Availability
 
-The designed backbone structures, sequences, predicted structures, docked complex structures, MD simulation parameters, and MM/PBSA calculation results are available in this GitHub repository. The MD trajectories for all 100 selected Vγ9–BTN2A1 complexes are deposited in Zenodo.
+The designed backbone structures, sequences, predicted structures, docked complex structures, MD simulation parameters, and MM/PBSA calculation results are available in this repository. The MD trajectories for all 100 selected Vγ9-BTN2A1 complexes are deposited in Zenodo.
 
 
