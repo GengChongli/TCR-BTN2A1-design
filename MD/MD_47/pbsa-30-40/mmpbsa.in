@@ -1,0 +1,15 @@
+Sample input file for GB and PB calculation
+&general
+  sys_name="Pro-Pro",
+  startframe=750, endframe=1000, interval=2,
+  forcefields="oldff/leaprc.ff99SBildn"
+/
+&pb
+istrng=0.15, fillratio=4.0,
+radiopt=0,
+/
+&decomp
+  idecomp=1, print_res="A/1-124 B/1-113"
+  dec_verbose=1,
+/
+
