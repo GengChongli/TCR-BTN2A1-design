@@ -11,7 +11,7 @@ This repository contains the following computational data:
 
 | Directory | Description |
 |---|---|
-| `RFdiffusion/` | Backbone structures generated using RFdiffusion3. |
+| `RFdiffusion3/` | Backbone structures generated using RFdiffusion3. |
 | `ProteinMPNN/` | Designed sequences generated using ProteinMPNN. |
 | `ColabFold/` | Protein structures predicted using ColabFold. |
 | `HADDOCK3/` | Results from two rounds of protein-protein docking using HADDOCK3. |
