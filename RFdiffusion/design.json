@@ -1,0 +1,18 @@
+{
+  "task": {
+    "dialect": 2,
+    "input": "./input.pdb",
+    "contig": "A3-115,/0,G2-20,4,G25-56,13,G70,14,G85,7,G93-125",
+    "infer_ori_strategy": "hotspots",
+    "select_hotspots": {
+      "A41": "O",
+      "A43": ["CD1","CD2","CE1","CE2","CZ","CG","N"],
+      "A44": "N",
+      "A96": "NH2",
+      "A100": "NE2",
+      "A105": "OH",
+      "A106": ["OD1","OD2"],
+      "A107": ["OE2","O"]
+    }
+  }
+}
